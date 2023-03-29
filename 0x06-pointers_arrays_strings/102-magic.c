@@ -1,7 +1,4 @@
 #include <stdio.h>
-/*
-* Description: 'the program prints a[2] = 98'
-*/
 int main(void)
 {
   int n;
